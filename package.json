@@ -1,7 +1,7 @@
 {
-  "name": "brave",
+  "name": "calcium",
   "version": "1.10.99",
-  "description": "Next generation Brave browser for macOS, Windows, Linux, and eventually Android",
+  "description": "Next generation Calcium browser for macOS, Windows, Linux, and eventually Android",
   "scripts": {
     "audit_deps": "node ./scripts/audit.js",
     "cibuild": "node ./scripts/commands.js cibuild",
